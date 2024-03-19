@@ -17,7 +17,6 @@
     * **REQUIRED parameters**
         * team: full name of the NBA/ABA team, i.e. "Milwaukee Bucks," "Virginia Squires"
         * year: last year of an NBA/ABA season, i.e. for the 2022-23 season, use "2023"
-        * mode: string matching any of 'totals|per_game|per_minute|per_poss|advanced'
         * Optional
             * league: string matching 'NBA|ABA' pertaining to the given league
     **RETURNS**
