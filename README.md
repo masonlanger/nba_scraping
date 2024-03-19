@@ -19,8 +19,8 @@
         * year: last year of an NBA/ABA season, i.e. for the 2022-23 season, use "2023"
         * Optional
             * league: string matching 'NBA|ABA' pertaining to the given league
+    
     **RETURNS**
-        
         dict: {player1_name:{
                     'pos': string,
                     'height': string,
